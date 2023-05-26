@@ -1,2 +1,1 @@
 # HolyStormFire
--create image> .turtle.>
